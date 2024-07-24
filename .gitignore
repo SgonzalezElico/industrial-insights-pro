@@ -5,3 +5,4 @@ industrial_insights/goem/__pycache__/
 industrial_insights/goem/migrations/__pycache__/
 industrial_insights/industrial_insights/settings.py
 .venv/
+.idea/
